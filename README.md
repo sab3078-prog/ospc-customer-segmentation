@@ -1,4 +1,4 @@
-# OSPC AI/ML Recruitment Round 2
+#  AI/ML CLUB PROJECT FOR RECRUITMENT
 
 ## Customer Segmentation Prediction
 
